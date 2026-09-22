@@ -1,4 +1,4 @@
-# DSC291 JailBench
+# JailBench
 
 Investigating how quantization affects LLM safety alignment using [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench).
 
